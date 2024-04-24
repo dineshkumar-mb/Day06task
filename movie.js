@@ -24,3 +24,16 @@ console.log(pgMovies);
 // Creating an instance of Movie
 const casinoRoyale = new Movie("Casino Royale", "Eon Productions", "PG-13");
 console.log(casinoRoyale);
+
+
+// console
+// [
+//   Movie { title: 'KGF', studio: 'Annapoorna', rating: 'PG' },
+//   Movie { title: 'Radhe Shyam', studio: 'platinum', rating: 'PG' },
+//   Movie { title: 'inspector rishi', studio: 'diamond', rating: 'PG' }
+// ]
+// Movie {
+//   title: 'Casino Royale',
+//   studio: 'Eon Productions',
+//   rating: 'PG-13'
+// }
